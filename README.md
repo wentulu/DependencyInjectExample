@@ -1,1 +1,3 @@
 # DependencyInjectExample
+
+模仿ButterKnife写的@BindView注解，在生成Java文件方面没有深入研究
